@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<opex:OPEXMetadata xmlns:opex="http://www.openpreservationexchange.org/opex/v1.0">
+  <Properties>
+    <Description>Asset File Descript</Description>
+    <Identifiers>
+      <Identifier type="OPEX">Identifier Number 1</Identifier>
+    </Identifiers>
+    <SecurityDescriptor>open</SecurityDescriptor>
+  </Properties>
+  <!--
+  <Transfer>
+    <Manifest>
+      <Fixities>
+        <Fixity type="SHA1" value="7692983CA2D0BB268EEA15F894A5743C31550D20" />
+      </Fixities>
+    </Manifest>
+  </Transfer>
+  -->
+  <!--
+  <DescriptiveMetadata>
+    
+  </DescriptiveMetadata>
+  -->
+</opex:OPEXMetadata>

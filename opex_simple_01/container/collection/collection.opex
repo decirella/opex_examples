@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<opex:OPEXMetadata xmlns:opex="http://www.openpreservationexchange.org/opex/v1.0">
+  <Properties>
+    <Title>collection</Title>
+    <Description>collection folder</Description>
+    <Identifiers>
+      <Identifier type="OPEX">MI</Identifier>
+    </Identifiers>
+    <SecurityDescriptor>open</SecurityDescriptor>
+  </Properties>
+  <Transfer>
+    <SourceID>ABC-1-1</SourceID>
+    <Manifest>
+      <!--
+           <Folders>
+           <Folder>RecordGroup1 </Folder>
+           </Folders>
+      -->
+      <Files>
+        <File type="content">asset</File>
+        <File type="metadata">asset.opex</File>
+      </Files>
+    </Manifest>
+  </Transfer>
+  <!--
+       <DescriptiveMetadata></DescriptiveMetadata>
+  -->
+</opex:OPEXMetadata>
