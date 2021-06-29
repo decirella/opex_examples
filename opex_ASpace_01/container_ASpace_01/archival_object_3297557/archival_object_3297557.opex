@@ -2,13 +2,13 @@
 <opex:OPEXMetadata xmlns:opex="http://www.openpreservationexchange.org/opex/v1.0">
   <opex:Properties>
     <opex:Identifiers>
-        <!-- Archival object ref here -->
+      <!-- Archival object ref here -->
       <opex:Identifier type="code">archival_object_3297557</opex:Identifier>
     </opex:Identifiers>
   </opex:Properties>
   <opex:DescriptiveMetadata>
     <LegacyXIP xmlns="http://preservica.com/LegacyXIP">
-        <Virtual>false</Virtual>
+      <Virtual>false</Virtual>
     </LegacyXIP>
   </opex:DescriptiveMetadata>
 </opex:OPEXMetadata>

@@ -23,14 +23,10 @@
       </Files>
     </Manifest>
   </Transfer>
-  
-       <DescriptiveMetadata>
-           
-           <!-- needed for sync -->
-       <LegacyXIP xmlns="http://preservica.com/LegacyXIP">
+  <DescriptiveMetadata>
+    <!-- needed for sync -->
+    <LegacyXIP xmlns="http://preservica.com/LegacyXIP">
       <AccessionRef>catalogue</AccessionRef>
     </LegacyXIP>
-       
-       </DescriptiveMetadata>
- 
+  </DescriptiveMetadata>
 </opex:OPEXMetadata>
