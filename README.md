@@ -3,9 +3,10 @@
 Repository of OPEX format examples for ingest to Preservica v6.
 
 [opex_simple_01](opex_simple_01/)  
-SIngle file ingest, in container -> collection -> asset
+Single file ingest, in container -> collection -> asset
 
-
+[opex_ASpace_01](opex_ASpace_01/)  
+Single file ingest with ArchivesSpace sync information
 
 ### OPEX Information/Reference
 
