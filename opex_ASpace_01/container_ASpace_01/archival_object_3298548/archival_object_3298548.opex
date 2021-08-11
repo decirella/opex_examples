@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OPEXMetadata xmlns="http://www.openpreservationexchange.org/opex/v1.0">
+  <Properties>
+    <Identifiers>
+      <!-- Archival object ref here -->
+      <Identifier type="code">archival_object_3298548</Identifier>
+    </Identifiers>
+  </Properties>
+  <DescriptiveMetadata>
+    <LegacyXIP xmlns="http://preservica.com/LegacyXIP">
+      <Virtual>false</Virtual>
+    </LegacyXIP>
+  </DescriptiveMetadata>
+</OPEXMetadata>

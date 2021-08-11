@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<opex:OPEXMetadata xmlns:opex="http://www.openpreservationexchange.org/opex/v1.0">
+<OPEXMetadata xmlns="http://www.openpreservationexchange.org/opex/v1.0">
   <Properties>
     <Description>Asset File Descript</Description>
     <Identifiers>
-      <Identifier type="OPEX">Identifier Number 1</Identifier>
+      <Identifier type="OPEX">Identifier Number 48</Identifier>
     </Identifiers>
     <SecurityDescriptor>open</SecurityDescriptor>
   </Properties>
@@ -21,4 +21,4 @@
     
   </DescriptiveMetadata>
   -->
-</opex:OPEXMetadata>
+</OPEXMetadata>

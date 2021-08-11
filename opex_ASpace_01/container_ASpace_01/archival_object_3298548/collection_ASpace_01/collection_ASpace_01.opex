@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<opex:OPEXMetadata xmlns:opex="http://www.openpreservationexchange.org/opex/v1.0">
+<OPEXMetadata xmlns="http://www.openpreservationexchange.org/opex/v1.0">
   <Properties>
-    <Title>ccollection_ASpace_01_title</Title>
+    <Title>collection_ASpace_01_title</Title>
     <Description>collection_ASpace_01_description</Description>
     <Identifiers>
       <Identifier type="OPEX">MI</Identifier>
-      <opex:Identifier type="code">[preservica] collection_ASpace_01</opex:Identifier>
+      <Identifier type="code">[preservica] collection_ASpace_01</Identifier>
     </Identifiers>
-    <SecurityDescriptor>open</SecurityDescriptor>
+    <SecurityDescriptor>dps_open</SecurityDescriptor>
   </Properties>
   <Transfer>
     <SourceID>opex_examples</SourceID>
@@ -29,4 +29,4 @@
       <AccessionRef>catalogue</AccessionRef>
     </LegacyXIP>
   </DescriptiveMetadata>
-</opex:OPEXMetadata>
+</OPEXMetadata>
